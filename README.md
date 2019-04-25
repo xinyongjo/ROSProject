@@ -1,5 +1,2 @@
-# test
+# ROS Sending colored object to destinations
 
-hello
-
-from xinyong
